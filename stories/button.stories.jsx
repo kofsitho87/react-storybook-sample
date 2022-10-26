@@ -18,3 +18,9 @@ export const Primary = Template.bind({});
 Primary.args = {
   label: 'Button',
 };
+Primary.parameters = {
+  design: {
+    type: 'figma',
+    url: 'https://www.figma.com/file/NJbEYGs2M0uBDPwKgb8Dq5/Storybook-Connect-(Community)?node-id=0%3A1'
+  }
+}
